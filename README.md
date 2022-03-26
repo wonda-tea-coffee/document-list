@@ -20,7 +20,7 @@
 - [postgresql](https://www.postgresql.org/docs/)
 - [redis](https://redis.io/docs/)
 
-# /\A[A-Z]{,2}aaS\z/
+# SaaS / PaaS / IDaaS / IaaS
 - [Auth0](https://auth0.com/docs/)
 - [AWS](https://docs.aws.amazon.com/)
 - [Bugsnag](https://docs.bugsnag.com/)
