@@ -19,6 +19,7 @@
 - [kubernetes](https://kubernetes.io/docs/home/)
 - [postgresql](https://www.postgresql.org/docs/)
 - [redis](https://redis.io/docs/)
+- [nginx](https://nginx.org/en/docs/)
 
 # SaaS / PaaS / IDaaS / IaaS
 - [Auth0](https://auth0.com/docs/)
